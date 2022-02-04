@@ -1,7 +1,7 @@
 #pragma once
 #include <cstddef>
 
-// 2022-02-02 02:47:16.220814 UTC
+// 2022-02-04 02:42:58.511883100 UTC
 
 namespace hazedumper {
 namespace netvars {
@@ -145,14 +145,14 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0xDB8F58;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xDBEF60;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD93D2;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA5050;
-constexpr ::std::ptrdiff_t find_hud_element = 0x289548A0;
+constexpr ::std::ptrdiff_t find_hud_element = 0x2D9F48A0;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3BA6CA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3C76A0;
 constexpr ::std::ptrdiff_t m_bDormant = 0xED;
 constexpr ::std::ptrdiff_t m_flSpawnTime = 0x103C0;
 constexpr ::std::ptrdiff_t m_pStudioHdr = 0x2950;
-constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x5203B90;
+constexpr ::std::ptrdiff_t m_pitchClassPtr = 0x5180032;
 constexpr ::std::ptrdiff_t m_yawClassPtr = 0xDB8F58;
 constexpr ::std::ptrdiff_t model_ambient_min = 0x58F03C;
 constexpr ::std::ptrdiff_t set_abs_angles = 0x1E51E0;

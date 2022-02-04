@@ -1,6 +1,6 @@
 using System;
 
-// 2022-02-02 02:47:16.220814 UTC
+// 2022-02-04 02:42:58.511883100 UTC
 
 namespace hazedumper
 {
@@ -147,14 +147,14 @@ namespace hazedumper
         public const Int32 dwZoomSensitivityRatioPtr = 0xDBEF60;
         public const Int32 dwbSendPackets = 0xD93D2;
         public const Int32 dwppDirect3DDevice9 = 0xA5050;
-        public const Int32 find_hud_element = 0x289548A0;
+        public const Int32 find_hud_element = 0x2D9F48A0;
         public const Int32 force_update_spectator_glow = 0x3BA6CA;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3C76A0;
         public const Int32 m_bDormant = 0xED;
         public const Int32 m_flSpawnTime = 0x103C0;
         public const Int32 m_pStudioHdr = 0x2950;
-        public const Int32 m_pitchClassPtr = 0x5203B90;
+        public const Int32 m_pitchClassPtr = 0x5180032;
         public const Int32 m_yawClassPtr = 0xDB8F58;
         public const Int32 model_ambient_min = 0x58F03C;
         public const Int32 set_abs_angles = 0x1E51E0;
